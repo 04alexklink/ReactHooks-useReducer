@@ -1,8 +1,8 @@
-import CounteruseReducer from './components/CounteruseReducer'
+import FetchPostuseState from './components/FetchPostuseState'
 function App() {
   return (
     <div className="App">
-      <CounteruseReducer></CounteruseReducer>
+      <FetchPostuseState></FetchPostuseState>
     </div>
   );
 }

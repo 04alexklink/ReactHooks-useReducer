@@ -1,8 +1,8 @@
-import FetchPostuseState from './components/FetchPostuseState'
+import FetchPostuseReducer from './components/FetchPostuseReducer'
 function App() {
   return (
     <div className="App">
-      <FetchPostuseState></FetchPostuseState>
+      <FetchPostuseReducer></FetchPostuseReducer>
     </div>
   );
 }
